@@ -8,7 +8,7 @@ Welcome to Beispiel Dokument's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   Hallo_Welt.md
 
 
 
