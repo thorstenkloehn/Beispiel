@@ -30,7 +30,7 @@ pip install sphinx_rtd_theme
 
 ## virtuellen Umgebung Sphinx starten
 
-    ```
+```
 make html
 ```
 
